@@ -48,3 +48,7 @@ Confusion Matrix
   <img src="https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt" alt="Recall Curve" style="width: 45%;padding: 5px;">
   <img src="https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw" alt="PR Curve" style="width: 45%;padding: 5px;">
 </p>
+
+## License
+
+This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) file for details.
