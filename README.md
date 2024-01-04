@@ -34,3 +34,70 @@ There are Two weight file
 1) Best Point :![Best.pt](https://drive.google.com/file/d/1Fa9gQ_0QcIxL7XwDx1YGSzxrOR-eM4sG/view?usp=drive_link)
 2) lats point:![last.pt](https://drive.google.com/file/d/1NJtglgMWsC3_yLIBQvHE5BsYXVm3S7Vi/view?usp=drive_link)
 
+## Evaluation
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluation Metrics</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+
+        .metrics-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .metric {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .metric img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Evaluation Metrics</h1>
+
+<div class="metrics-container">
+    <div class="metric">
+        <h2>Confusion Matrix</h2>
+        <img src="https://drive.google.com/uc?id=1z-2FN5g1zu002-8kwyr1UOog_brGCR3W" alt="Confusion Matrix">
+    </div>
+
+    <div class="metric">
+        <h2>F1 Curve</h2>
+        <img src="https://drive.google.com/uc?id=1gAcMpI4ScfMALOfSYtG-ZGE8D2Jgw-jr" alt="F1 Curve">
+    </div>
+
+    <div class="metric">
+        <h2>Precision Curve</h2>
+        <img src="https://drive.google.com/uc?id=1rw0MkFhU6OOkY486wHv8O2E_zvja1OQW" alt="Precision Curve">
+    </div>
+
+    <div class="metric">
+        <h2>Recall Curve</h2>
+        <img src="https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt" alt="Recall Curve">
+    </div>
+
+    <div class="metric">
+        <h2>PR Curve</h2>
+        <img src="https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw" alt="PR Curve">
+    </div>
+</div>
+
+</body>
+</html>
+
