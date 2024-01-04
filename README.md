@@ -41,3 +41,10 @@ There are Two weight file
 4) R curve :![](https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt)
 5) PR curve :![](https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw)
 
+
+<img src="https://drive.google.com/uc?id=1z-2FN5g1zu002-8kwyr1UOog_brGCR3W" alt="Confusion Matrix" style="max-width: 100%; height: auto;">
+<img src="https://drive.google.com/uc?id=1gAcMpI4ScfMALOfSYtG-ZGE8D2Jgw-jr" alt="F1 Curve" style="max-width: 100%; height: auto;">
+<img src="https://drive.google.com/uc?id=1rw0MkFhU6OOkY486wHv8O2E_zvja1OQW" alt="Precision Curve" style="max-width: 100%; height: auto;">
+<img src="https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt" alt="Recall Curve" style="max-width: 100%; height: auto;">
+<img src="https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw" alt="PR Curve" style="max-width: 100%; height: auto;">
+
