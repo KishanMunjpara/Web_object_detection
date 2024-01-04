@@ -43,8 +43,9 @@ There are Two weight file
 
 
 <img src="https://drive.google.com/uc?id=1z-2FN5g1zu002-8kwyr1UOog_brGCR3W" alt="Confusion Matrix" style="max-width: 100%; height: auto;">
-<img src="https://drive.google.com/uc?id=1gAcMpI4ScfMALOfSYtG-ZGE8D2Jgw-jr" alt="F1 Curve" style="display: inline-block;width: 25%;padding: 5px;">
-<img src="https://drive.google.com/uc?id=1rw0MkFhU6OOkY486wHv8O2E_zvja1OQW" alt="Precision Curve" style="display: inline-block;width: 25%;padding: 5px;">
-<img src="https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt" alt="Recall Curve" style="display: inline-block;width: 25%;padding: 5px;">
-<img src="https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw" alt="PR Curve" style="display: inline-block;width: 25%;padding: 5px;">
-
+<p float="left">
+  <img src="https://drive.google.com/uc?id=1gAcMpI4ScfMALOfSYtG-ZGE8D2Jgw-jr" alt="F1 Curve" style="width: 25%;padding: 5px;">
+  <img src="https://drive.google.com/uc?id=1rw0MkFhU6OOkY486wHv8O2E_zvja1OQW" alt="Precision Curve" style="width: 25%;padding: 5px;">
+  <img src="https://drive.google.com/uc?id=1x7Vyp34cFotqGkG9gmt3O1L-WLYnmIqt" alt="Recall Curve" style="width: 25%;padding: 5px;">
+  <img src="https://drive.google.com/uc?id=1x8d9B54EnAfsprtAjYQi9M6JQWFBJFWw" alt="PR Curve" style="width: 25%;padding: 5px;">
+</p>
