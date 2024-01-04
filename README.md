@@ -36,7 +36,7 @@ There are Two weight file
 
 ## Evaluation
 
-<img src="https://drive.google.com/uc?id=1z-2FN5g1zu002-8kwyr1UOog_brGCR3W" alt="Confusion Matrix" style="max-width: 70%; height: 70%;">
+<img src="https://drive.google.com/uc?id=1z-2FN5g1zu002-8kwyr1UOog_brGCR3W" alt="Confusion Matrix" style="max-width: 50%; height: 50%;">
 <p float="left">
   <img src="https://drive.google.com/uc?id=1gAcMpI4ScfMALOfSYtG-ZGE8D2Jgw-jr" alt="F1 Curve" style="width: 45%;padding: 5px;">
   <img src="https://drive.google.com/uc?id=1rw0MkFhU6OOkY486wHv8O2E_zvja1OQW" alt="Precision Curve" style="width: 45%;padding: 5px;">
